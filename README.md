@@ -4,7 +4,7 @@
 <p>I'm a dedicated Full Stack Developer with expertise in building modern web applications. With a strong foundation in both frontend and backend technologies, Passionate about coding and problem-solving. I create seamless user experiences and robust server-side solutions. I am committed to delivering robust and innovative software solutions. </p>
 
 <br>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Praveen-DR&label=Profile%20views&color=0e75b6&style=flat" alt="Praveen D R" /> </p>
 
 <b> Connect with me :</b>
 
