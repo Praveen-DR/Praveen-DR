@@ -69,13 +69,13 @@
 
 <br>
 
-![](https://github-readme-stats.vercel.app/api?username=vikasrai19&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=vikasrai19&theme=gruvbox&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vikasrai19&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Praveen-DR&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Praveen-DR&theme=gruvbox&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Praveen-DR&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-[![Vikas Rai's GitHub stats](https://github-readme-stats.vercel.app/api?username=vikasrai19)](https://github.com/vikasrai19/github-readme-stats)
+[![Vikas Rai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Praveen-DR)](https://github.com/Praveen-DR/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vikasrai19&layout=compact)](https://github.com/vikasrai19)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Praveen-DR&layout=compact)](https://github.com/Praveen-DR)
 
 
-<!-- [![Visitors](https://visitor-badge.glitch.me/badge?page_id=yushi1007.vikasrai19)](https://www.yushi.dev/) -->
+<!-- [![Visitors](https://visitor-badge.glitch.me/badge?page_id=yushi1007.Praveen-DR)](https://www.yushi.dev/) -->
