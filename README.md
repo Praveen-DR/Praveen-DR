@@ -69,7 +69,6 @@
 
 <br>
 
-![](https://github-readme-stats.vercel.app/api?username=Praveen-DR&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Praveen-DR&theme=gruvbox&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Praveen-DR&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
