@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Praveen D R</h1>
+
 <h3 align="center">Full Stack Developer | UI|UX Enthusiast</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/736x/d1/35/56/d13556ec053cffc2410a682ee33436d6.jpg">
 <p>I'm a dedicated Full Stack Developer with expertise in building modern web applications. With a strong foundation in both frontend and backend technologies, Passionate about coding and problem-solving. I create seamless user experiences and robust server-side solutions. I am committed to delivering robust and innovative software solutions. </p>
@@ -68,7 +69,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgre" width="40" height="40"/></p>
 
 <br>
-
 ![](https://github-readme-stats.vercel.app/api?username=Praveen-DR&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Praveen-DR&theme=gruvbox&hide_border=false)<br/>
