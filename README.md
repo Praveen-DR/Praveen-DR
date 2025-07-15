@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Praveen D R</h1>
+<h3 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3FBF70&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Praveen+D+R;" alt="Praveen Typing SVG" />
+  </a>
+</h3>
 
 <h3 align="center">Full Stack Developer | UI|UX Enthusiast</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/736x/d1/35/56/d13556ec053cffc2410a682ee33436d6.jpg">
