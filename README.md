@@ -84,4 +84,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Praveen-DR&layout=compact)](https://github.com/Praveen-DR)
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+
+---
+
 <!-- [![Visitors](https://visitor-badge.glitch.me/badge?page_id=yushi1007.Praveen-DR)](https://www.yushi.dev/) -->
